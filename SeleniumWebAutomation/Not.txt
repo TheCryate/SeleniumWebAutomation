@@ -1,0 +1,2 @@
+Log(Main diye geçer) ve kullanıcıbilgi(password diye geçer) dosyaları SeleniumWebAutomation\SeleniumWebAutomaiton\bin\Debug\net6.0 içinde.
+-Batıhan KOTA
